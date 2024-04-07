@@ -12,5 +12,5 @@ Status do Projeto
 
 A filtragem de busca por nome (através do input) está em funcionamento.
 
-2 pendências: estou tentando remover um item desnecessário da página HTML (ele está posicionado à esquerda e faz parte do framework, parece ser uma funcionalidade embutida e “engessada”) e estou tentando implementar o funcionamento de filtragem da tabela a partir da cor da pele.
+2 pendências: estou tentando remover um item desnecessário da página HTML (ele está posicionado à esquerda e faz parte do framework) e estou tentando implementar o funcionamento de filtragem da tabela a partir da cor da pele.
 
